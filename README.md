@@ -1,14 +1,12 @@
 # Greg's Hil Nursery and Primary School
 
 [Live Demo](https://likycoder.github.io/Gregs-Hil-Nursery_and_primary_schooll)
+
 ### Screen Shots
-PC Responsiveness
+
 ![Screenshot 2023-10-21 154835](https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_schooll/blob/main/img/pppppppppp.png)
 
-### Mobile Responsiveness
-![Screenshot 2023-10-21 154835](https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_schooll/blob/main/img/ppppppppp1.png)
-
-Welcome to the **Greg's Hil Nursery and Primary School** project! This repository is dedicated to managing and improving the digital infrastructure for Greg's Hil Nursery and Primary School. It aims to provide a platform for organizing school activities, documentation, and development resources.
+Welcome to the **Greg's Hil Nursery and Primary School** project! This repository contains the codebase for a fully static website built to showcase information about Greg's Hil Nursery and Primary School. It is designed to provide a visually engaging and responsive platform for visitors to learn more about the school.
 
 ## Table of Contents
 
@@ -21,23 +19,24 @@ Welcome to the **Greg's Hil Nursery and Primary School** project! This repositor
 
 ## About the Project
 
-Greg's Hil Nursery and Primary School is a digital project aimed at enhancing the management and accessibility of academic, administrative, and extracurricular resources for the school. This repository serves as a central hub for the development and improvement of tools supporting the school community.
+The Greg's Hil Nursery and Primary School website is a static site built using modern web technologies. It contains informative pages about the school, its academic programs, extracurricular activities, and contact information. The site is hosted on GitHub Pages and provides a lightweight, fast-loading experience for its users.
 
 ## Features
 
-- **Student Records Management**: Streamlined system for maintaining student details.
-- **Timetable Management**: Tools to create and manage class schedules.
-- **Communication Tools**: Features to facilitate communication between teachers, students, and parents.
-- **Resource Sharing**: A centralized location for sharing learning materials and other resources.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **School Information**: Pages detailing school programs, activities, and contact information.
+- **Interactive Elements**: Basic interactivity powered by JavaScript.
+- **Lightweight and Fast**: No backend, ensuring quick load times and easy hosting.
 
 ## Technologies Used
 
 This project uses the following technologies:
 
-- **Backend**: PHP
-- **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL (or any other relational database)
-- **Tools**: GitHub for version control and collaboration
+- **HTML**: For structuring the website.
+- **CSS**: For styling and layout.
+- **JavaScript**: For adding interactivity.
+- **SCSS**: For modular and maintainable styling.
+- **GitHub Pages**: For hosting the live demo.
 
 ## Getting Started
 
@@ -47,12 +46,38 @@ To set up this project locally, follow these steps:
 
 Ensure you have the following installed:
 
-- [PHP](https://www.php.net/) (version 7.4 or newer)
-- [Composer](https://getcomposer.org/) (for managing PHP dependencies)
-- A local web server like [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://www.wampserver.com/)
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/).
+- A modern web browser for testing.
 
 ### Installation Steps
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_school.git
+   git clone https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_schooll.git
+   Navigate to the Project Directory:
+
+   ## bash
+cd Gregs-Hil-Nursery_and_primary_schooll
+Open the Project: Open the index.html file in your web browser to view the site locally.
+
+
+### Contribution Guidelines
+We welcome contributions to improve this project! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+    ## bash
+git checkout -b feature-name
+3. Commit your changes and push the branch:
+    ## bash
+git add .
+git commit -m "Add feature-name"
+git push origin feature-name
+4. Open a Pull Request with a detailed description of your changes.
+### License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as outlined in the license.
+
+### Code
+     ## bash
+
+You can copy and paste this into your README file to reflect that the project is a fully static website with no backend! Let me know if you'd like further adjustments!
