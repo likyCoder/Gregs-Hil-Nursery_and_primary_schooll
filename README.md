@@ -1,5 +1,7 @@
 # Greg's Hil Nursery and Primary School
 
+[Live Demo](https://likycoder.github.io/Gregs-Hil-Nursery_and_primary_schooll)
+
 Welcome to the **Greg's Hil Nursery and Primary School** project! This repository is dedicated to managing and improving the digital infrastructure for Greg's Hil Nursery and Primary School. It aims to provide a platform for organizing school activities, documentation, and development resources.
 
 ## Table of Contents
