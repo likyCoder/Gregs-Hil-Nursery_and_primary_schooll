@@ -2,10 +2,6 @@
 
 [Live Demo](https://likycoder.github.io/Gregs-Hil-Nursery_and_primary_schooll)
 
-### Screen Shots
-
-![Screenshot 2023-10-21 154835](https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_schooll/blob/main/img/pppppppppp.png)
-
 Welcome to the **Greg's Hil Nursery and Primary School** project! This repository contains the codebase for a fully static website built to showcase information about Greg's Hil Nursery and Primary School. It is designed to provide a visually engaging and responsive platform for visitors to learn more about the school.
 
 ## Table of Contents
@@ -79,5 +75,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ### Code
      ## bash
-
 You can copy and paste this into your README file to reflect that the project is a fully static website with no backend! Let me know if you'd like further adjustments!
+
+### Screen Shots
+
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/Gregs-Hil-Nursery_and_primary_schooll/blob/main/img/pppppppppp.png)
